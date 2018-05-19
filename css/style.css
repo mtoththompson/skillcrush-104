@@ -11191,3 +11191,26 @@ body.nancys-advice {
   height: 400px;
   background: #ffb3d9;
 }
+
+/* mtoththompson's styles */
+.mtoththompson-advice p {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.mtoththompson-advice h1 {
+  font-family: 'Abril Fatface', cursive;
+  text-transform: none;
+  font-weight: normal;
+}
+
+.mtoththompson-advice h2 {
+  font-family: 'Cinzel', serif;
+}
+
+.mtoththompson-advice header {
+  background-color: #1b2027;
+  height: 100px;
+  padding: 150px 50px;
+  text-align: center;
+  width: auto;
+}
